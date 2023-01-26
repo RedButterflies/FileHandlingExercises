@@ -1,0 +1,14 @@
+Accipiter badius	Shikra
+Accipiter brevipes	Levant Sparrowhawk
+Accipiter gentilis	Northern Goshawk
+Accipiter gularis	Japanese Sparrowhawk
+Accipiter nisus	Eurasian Sparrowhawk
+Accipiter ovampensis	Ovambo Sparrowhawk
+Accipiter soloensis	Chinese Sparrowhawk
+Accipiter virgatus	Besra
+Acinonyx jubatus	Cheetah
+Acipenser baerii baicalensis	Siberian sturgeon
+Acipenser fulvescens	Lake Sturgeon
+Acipenser gueldenstaedtii	Russian Sturgeon, Ossetra
+Acipenser medirostris	Green Sturgeon
+Acipenser mikadoi	Sakhalin Sturgeon
